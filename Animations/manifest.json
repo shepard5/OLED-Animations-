@@ -1,8 +1,8 @@
-   {
-     "version": 3,
-     "url": "http://boundss.com/OLED-Animations-/Animations/manifest.json",
-     "width": 128,
-     "height": 64,
-     "frames": 16,
-     "intervalMs": 120
-   }
+{
+  "version": 1,
+  "url": "https://raw.githubusercontent.com/shepard5/OLED-Animations-/main/Animations/solar_system.bin",
+  "width": 128,
+  "height": 64,
+  "frames": 16,
+  "intervalMs": 120
+}
