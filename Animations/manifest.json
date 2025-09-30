@@ -1,8 +1,8 @@
 {
-  "version": 6,
-  "url": "https://raw.githubusercontent.com/shepard5/OLED-Animations-/main/Animations/i_love_emily.bin",
+  "version": 7,
+  "url": "https://raw.githubusercontent.com/shepard5/OLED-Animations-/main/Animations/love_you_girlypop.bin",
   "width": 128,
   "height": 64,
-  "frames": 20,
+  "frames": 12,
   "intervalMs": 120
 }
